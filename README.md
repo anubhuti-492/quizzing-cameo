@@ -38,6 +38,8 @@ Each quiz has many topics, each topic has many questions and each question has m
 ![image](https://user-images.githubusercontent.com/79910258/112475354-2aeb5080-8d8a-11eb-8d87-24d57b0d4b54.png)
 ![image](https://user-images.githubusercontent.com/79910258/112475410-3b033000-8d8a-11eb-818d-149d5a6c65d6.png)
 ![image](https://user-images.githubusercontent.com/79910258/112475528-566e3b00-8d8a-11eb-9820-8cfbde32b89e.png)
+![Screenshot_1616879658](https://user-images.githubusercontent.com/79910258/112735047-039bab80-8f63-11eb-9efb-372339668605.png)
+![Screenshot_1616879681](https://user-images.githubusercontent.com/79910258/112735050-05fe0580-8f63-11eb-93c4-9dc2e795e09f.png)
 
 
 

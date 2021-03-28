@@ -39,6 +39,8 @@ Quizzes and the Topics collection data should not be altered by the user.
 # Security rules enforced in the database
 ![image](https://user-images.githubusercontent.com/79910258/112474759-72251180-8d89-11eb-9fda-06099ff9601b.png)
 
+# The datamodel 
+![image](https://user-images.githubusercontent.com/79910258/112771504-49c53d80-903d-11eb-808d-a13dc4418dde.png)
 
 # Basic structure of the application
 

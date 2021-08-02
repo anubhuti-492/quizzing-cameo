@@ -50,13 +50,3 @@ Each quiz has many topics, each topic has many questions and each question has m
 ![image](https://user-images.githubusercontent.com/79910258/112475069-d647d580-8d89-11eb-8ec6-4b534a32dc43.png)
 
 
-
-
-
-
-
-
-![Screenshot_1616879817](https://user-images.githubusercontent.com/79910258/112750259-ac382280-8fd8-11eb-9a40-0f888c311983.png)
-![Screenshot_1616359431](https://user-images.githubusercontent.com/79910258/112750267-b5c18a80-8fd8-11eb-82f7-ae1a419c0565.png)
-
-

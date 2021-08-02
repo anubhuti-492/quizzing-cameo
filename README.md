@@ -47,6 +47,3 @@ Quizzes and the Topics collection data should not be altered by the user.
 Each quiz has many topics, each topic has many questions and each question has many options.
 
 
-![image](https://user-images.githubusercontent.com/79910258/112475069-d647d580-8d89-11eb-8ec6-4b534a32dc43.png)
-
-
